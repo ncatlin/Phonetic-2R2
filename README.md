@@ -8,4 +8,4 @@ Usage in a linux BASH shell:
 python pythonics.py [name arguments] < namefile
 
 eg:
-python btmain.py Smith Jones < names.txt
+python pythonics.py Smith Jones < names.txt
