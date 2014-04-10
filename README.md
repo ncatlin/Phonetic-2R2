@@ -5,7 +5,7 @@ A phonetic search program, built and tested with Python 2.7
 
 Usage in a linux BASH shell: 
 
-python pythonics.py [name arguments] < namefile
+python phonetics.py [name arguments] < namefile
 
 eg:
-python pythonics.py Smith Jones < names.txt
+python phonetics.py Smith Jones < names.txt
